@@ -1,3 +1,5 @@
+// +heroku install ./cmd/... github.com/golang/protobuf/protoc-gen-go
+
 module github.com/freeformz/extratools
 
 go 1.12
