@@ -1,6 +1,5 @@
 # Example of including extra tools
 
-
 ## Tool Setup
 
 ```sh
